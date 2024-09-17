@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChetanNonCoder
 - 👀 I’m interested in java, springboot, Full Stack
 - 🌱 I’m currently learning Typescript, Next.js
-  - 💞️ I’m looking to collaborate on java full stack projects
+- 💞️ I’m looking to collaborate on java full stack projects
 - 📫 How to reach me jchetan255@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am looking to be a stand up comedian one day.
